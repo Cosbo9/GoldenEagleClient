@@ -1,0 +1,16 @@
+.home-container {
+  margin: 0 2rem;
+  .header-section {
+    display: flex;
+    .logo {
+      width: 12rem;
+      height: auto;
+    }
+    .title {
+      position: relative;
+      left: 16%;
+      font-size: 4rem;
+      font-weight: 600;
+    }
+  }
+}
